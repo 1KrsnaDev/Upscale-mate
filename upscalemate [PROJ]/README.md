@@ -17,7 +17,6 @@ This platform aims to simplify and enhance career guidance for secondary school 
    [How to Contribute]:
    <br>
    <br>
-  ● Clone the Repo:https://github.com/JK7Dev/upscalemate.git
 <br>
 <br>
   ● Learn and Contribute: Whether you're a fellow beginner or a seasoned developer, your input matters. Help shape UPSCALE MATE by contributing to its growth.
